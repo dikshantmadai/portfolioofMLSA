@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "The-Assemble-Restaurant",
     description:
-"i have made a sample restaurant website using HTML/CSS",
+      "i have made a sample restaurant website using HTML/CSS",
     url: "https://dikshantmadai.github.io/The-Assemble-Restaurant/index.html",
   },
   {
